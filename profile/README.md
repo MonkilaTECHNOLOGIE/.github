@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415409/60740/man-medium-skin-tone-beard.gif?1660415409" width="30"/> 𝔸𝕓𝕠𝕦𝕥 Us</h2>
 
 
-# Nous sommes une entreprise digitale technologique 
+# We are an IT services company dedicated to businesses and individuals, specializing in the areas of information systems, IT development and networks, providing solutions to meet the needs of SMEs and SMIs.
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> 𝕃𝕖𝕥’𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥</h2>
 
@@ -13,13 +13,13 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> Services</h2>
 
-- Development of IOS and Android mobile applications 
-+ Website development  
-* Software development for Mac and Windows 
-- Digital Marketing 
-+ Design 
-* Advice and technical assistance 
-- Professional training
+# - Development of IOS and Android mobile applications 
+# + Website development  
+# * Software development for Mac and Windows 
+# - Digital Marketing 
+# + Design 
+# * Advice and technical assistance 
+# - Professional training
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/></h2>
