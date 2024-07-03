@@ -13,12 +13,12 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> Services</h2>
 
-- Development of IOS and Android mobile applications ,
-+ Website development , 
-* Software development for Mac and Windows ,
-- Digital Marketing ,
-+ Design ,
-* Advice and technical assistance ,
+- Development of IOS and Android mobile applications 
++ Website development  
+* Software development for Mac and Windows 
+- Digital Marketing 
++ Design 
+* Advice and technical assistance 
 - Professional training
 
 
